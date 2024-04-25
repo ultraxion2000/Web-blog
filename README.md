@@ -13,8 +13,8 @@
 > * Bootstrap
 ----------------------------------------------------------------------------------------------------
 ### Главная страница:
-![1](https://github.com/ultraxion2000/Web-site/assets/66636002/3b346047-0d09-4044-9a70-d18d0f8185ba)
+![1](https://github.com/ultraxion2000/Web-blog/assets/66636002/4f22ee40-0c88-43e2-99b6-92ec053ddc4b)
 ### Страница контактов:
-![2](https://github.com/ultraxion2000/Web-site/assets/66636002/b2a10f7e-788f-4f7d-afc0-093d56ac8d37)
+![2](https://github.com/ultraxion2000/Web-blog/assets/66636002/4f4b4a20-b168-4879-93fd-8a0fcbe69806)
 ### Страница создания постов:
-![3](https://github.com/ultraxion2000/Web-site/assets/66636002/5e8caa07-ce59-4123-b97c-d8a848b6863d)
+![3](https://github.com/ultraxion2000/Web-blog/assets/66636002/2489a01b-c776-4e95-8f94-fef418696689)
